@@ -1,0 +1,22 @@
+{
+  "name": "week01-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjannnn/Namaste_React_01.git"
+  },
+  "author": "sajjannnnn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjannnn/Namaste_React_01/issues"
+  },
+  "homepage": "https://github.com/sajjannnn/Namaste_React_01#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
